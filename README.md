@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Vikrantranaa
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Java Full Stack Developmenet
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me 
+- 📧ranavikrant674@gmail.com
